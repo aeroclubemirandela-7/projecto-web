@@ -1,8 +1,8 @@
 {
-    "remotePath": "/htdocs/projeto-web/",
+    "remotePath": "/htdocs/",
     "host": "ftpupload.net",
-    "username": "xxxxxx",
-    "password": "xxxxx",
+    "username": "epiz_33116525",
+    "password": "Grupo1",
     "port": 21,
     "secure": false,
     "protocol": "ftp",
@@ -22,6 +22,6 @@
         "extensionsToInclude": [
             ""
         ],
-        "path": ""
+        "path": "/public"
     }
 }
